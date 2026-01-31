@@ -1,0 +1,2 @@
+# preeti
+created for miniproject
